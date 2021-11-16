@@ -1,3 +1,13 @@
+"""
+This is exaple.py module.
+
+It supplies reverse() function. E.g.:
+
+>>> reverse('awesome!')
+'!emosewa'
+"""
+
+
 def reverse(s):
     """Reverse a string.
 
