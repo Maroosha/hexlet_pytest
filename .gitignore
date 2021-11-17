@@ -1,3 +1,6 @@
-tests/__pycache__/
-hexlet_pytest/__pycache_/_
+**/__pycache__/
 .pytest_cache/
+*.pyc
+.venv/
+.coverage
+.vim
